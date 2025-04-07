@@ -9,7 +9,7 @@
 2.vue-project文件夹中为前端项目
 3.在demo/src/main/resources文件夹中需要在approperties文件中配置ai的各项参数
 
- 各版本的hostUrl及其对应的domian参数，具体可以参考接口文档 https://www.xfyun.cn/doc/spark/Web.html
+ 各版本的hostUrl及其对应的domain参数，具体可以参考接口文档 https://www.xfyun.cn/doc/spark/Web.html
  Spark Lite      https://spark-api.xf-yun.com/v1.1/chat      domain参数为lite
  Spark Pro       https://spark-api.xf-yun.com/v3.1/chat      domain参数为generalv3
  Spark Pro-128K  https://spark-api.xf-yun.com/chat/pro-128k  domain参数为pro-128k

@@ -1,9 +1,9 @@
 ### 项目说明
 1.本项目后端基于SpringBoot开发，JDK21+
-2.默认端口8080，可自行修改application.properties文件
+2.后端默认端口8080，如果8080被占用可自行修改application.properties文件
 3.本项目前端基于Vue3+ElementPlus开发，自行安装element-plus依赖
-5.因项目前端会识别ai回复的markdown格式，所以前端需要安装marked依赖将ai回复的markdown格式进行转义
-6.本项目使用了dompurify防止xss攻击，所以前端需要安装dompurify依赖（因为这个项目本身是从其他项目拆分出来的）
+4.因项目前端会识别ai回复的markdown格式，所以前端需要安装marked依赖将ai回复的markdown格式进行转义
+5.本项目使用了dompurify防止xss攻击，所以前端需要安装dompurify依赖（因为这个项目本身是从其他项目拆分出来的）
 ### 文件结构说明
 1.demo文件夹中为后端项目
 2.vue-project文件夹中为前端项目

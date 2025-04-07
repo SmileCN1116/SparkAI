@@ -16,3 +16,6 @@
  Spark Max       https://spark-api.xf-yun.com/v3.5/chat      domain参数为generalv3.5
  Spark Max-32K   https://spark-api.xf-yun.com/chat/max-32k   domain参数为max-32k
  Spark 4.0 Ultra  https://spark-api.xf-yun.com/v4.0/chat      domain参数为4.0Ultra
+
+### 项目演示图片
+![image](https://github.com/user-attachments/assets/9bc49ef6-8a1e-4690-abe0-bcfe37efc98d)
